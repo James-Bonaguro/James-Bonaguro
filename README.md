@@ -2,9 +2,9 @@
 
 Builder at the intersection of AI, economics, and human psychology. Founder of [Intersection Strategies LLC](mailto:james@intersectionstrategies.co).
 
-I build AI systems, workflows, and tools — mostly by figuring things out faster than they get documented. Not a traditional developer. Self-taught through intensive use of Claude, Claude Code, ChatGPT, Gemini, and every AI tool worth testing.
+I build AI systems, workflows, and tools - mostly by figuring things out faster than they get documented. Not a traditional developer. Self-taught through intensive use of every AI tool worth testing.
 
-## What I'm Working On
+## A Few Things That I'm Working On
 
 - **[claude-code-lab](https://github.com/James-Bonaguro/claude-code-lab)** — Hands-on learning repo for Claude Code. Clone it, build a real app, learn skills/hooks/Plan Mode by doing. Free.
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)** — My Claude Code operational toolkit. Skills, plugins, MCP configs for high-velocity AI development.
