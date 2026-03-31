@@ -9,7 +9,7 @@ Founder of [Intersection Strategies LLC](mailto:james@intersectionstrategies.co)
 
 I build custom AI systems, onboarding workflows, and automation agents for businesses and individuals. And plenty of things I probably didn't need to... but learned a lot from anyway.
 
-_I use AI as a tool. It doesn't have a brain. It can never replace human judgement, taste, or perspective._ 
+_I use AI as a tool. It doesn't have a brain. It can never replace human judgement, taste, or perspective. Always review your work._ 
 
 ## A Few Public Projects I've been Working On Recently
 
