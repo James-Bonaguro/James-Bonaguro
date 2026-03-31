@@ -4,7 +4,9 @@ Builder at the intersection of technology, economics, and psychology. Founder of
 
 I build custom AI systems, onboarding workflows, and automation agents for businesses and individuals. 
 
-And plenty of things I probably didn't need to... but learned a lot from anyway. I use AI as a tool. It can never replace human judgement, taste, or perspective. 
+And plenty of things I probably didn't need to... but learned a lot from anyway.
+
+I use AI as a tool. It can never replace human judgement, taste, or perspective. 
 
 ## A Few Public Projects I've been Working On Recently
 
