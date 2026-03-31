@@ -6,7 +6,7 @@ I build custom AI systems, onboarding workflows, and automation agents for busin
 
 And plenty of things I probably didn't need to... but learned a lot from anyway.
 
-## A Few Public Projects I've been Working On
+## A Few Public Projects I've been Working On Recently
 
 - **[claude-code-lab](https://github.com/James-Bonaguro/claude-code-lab)**: Hands-on learning repo for Claude Code. Clone it, build, learn skills/hooks/Plan Mode by doing.
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)**: One of my Claude Code operational toolkits. Skills, plugins, MCP configs for high-velocity AI development.
