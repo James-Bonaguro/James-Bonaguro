@@ -9,7 +9,7 @@ I build AI systems, workflows, and tools - mostly by figuring things out faster 
 - **[claude-code-lab](https://github.com/James-Bonaguro/claude-code-lab)** — Hands-on learning repo for Claude Code. Clone it, build a real app, learn skills/hooks/Plan Mode by doing. Free.
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)** — My Claude Code operational toolkit. Skills, plugins, MCP configs for high-velocity AI development.
 - **[ai-onboarding](https://github.com/James-Bonaguro/ai-onboarding)** — AI onboarding system for professionals. Teaches AI as a reasoning partner, not a search tool.
-- **[signal-speak](https://james-bonaguro.github.io/signal-speak/)** — Speaking practice app. Random topics, timed responses, AI scoring. [Try it live.](https://james-bonaguro.github.io/signal-speak/)
+- **[signal-speak](https://james-bonaguro.github.io/signal-speak/)** — Speaking practice app. Random topics, timed responses, AI scoring.
 
 ## Contact
 
