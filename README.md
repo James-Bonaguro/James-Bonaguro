@@ -6,7 +6,7 @@ I build custom AI systems, onboarding workflows, and automation agents for busin
 
 And plenty of things I probably didn't need to... but learned a lot from anyway.
 
-I use AI as a tool. It can never replace human judgement, taste, or perspective. 
+I use AI as a tool. It doesn't have a brain. It can never replace human judgement, taste, or perspective. 
 
 ## A Few Public Projects I've been Working On Recently
 
