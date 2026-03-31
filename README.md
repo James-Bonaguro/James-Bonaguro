@@ -2,7 +2,7 @@
 
 Builder at the intersection of AI, economics, and human psychology. Founder of [Intersection Strategies LLC](mailto:james@intersectionstrategies.co).
 
-I build AI systems, workflows, and tools for small businesses, individuals, and myself. 
+I build AI systems, workflows, and tools for businesses, individuals, and myself. 
 
 ## A Few Public Projects I've been Working On
 
