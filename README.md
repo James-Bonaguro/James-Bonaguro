@@ -2,11 +2,9 @@
 
 Builder at the intersection of technology, economics, and psychology. Founder of [Intersection Strategies LLC](mailto:james@intersectionstrategies.co).
 
-I build custom AI systems, onboarding workflows, and automation agents for businesses and individuals. 
+I build custom AI systems, onboarding workflows, and automation agents for businesses and individuals. And plenty of things I probably didn't need to... but learned a lot from anyway.
 
-And plenty of things I probably didn't need to... but learned a lot from anyway.
-
-I use AI as a tool. It doesn't have a brain. It can never replace human judgement, taste, or perspective. 
+_I use AI as a tool. It doesn't have a brain. It can never replace human judgement, taste, or perspective._ 
 
 ## A Few Public Projects I've been Working On Recently
 
@@ -15,6 +13,6 @@ I use AI as a tool. It doesn't have a brain. It can never replace human judgemen
 - **[ai-onboarding](https://github.com/James-Bonaguro/ai-onboarding)**: AI onboarding system for business professionals, grounded in real finance use cases. Teaches AI as a reasoning partner, not a search tool.
 - **[signal-speak](https://james-bonaguro.github.io/signal-speak/)**: Speaking practice app to improve articulation. Random topics, timed responses, AI scoring.
  
-## Contac 
+## Contact
 
 james@intersectionstrategies.co
