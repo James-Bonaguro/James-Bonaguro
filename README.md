@@ -13,7 +13,7 @@ I also do plenty of 1:1 consulting for people who want to genuinely learn AI and
 
 ---
 
-*AI is a tool and a resource to accelerate learning and processes - not replace human knowledge. It doesn't have a brain. It can never replace human nuance, judgment, taste, or perspective. Thoroughly review any output it produces.*
+*AI is a helpful tool. A resource to accelerate learning and speed up processes. But it can't replace human knowledge. It doesn't have a brain. It can never replace human nuance, judgment, taste, or perspective. Thoroughly review any output it produces.*
 
   
 ---
