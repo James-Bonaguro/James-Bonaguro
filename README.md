@@ -23,7 +23,7 @@ I also do plenty of 1:1 consulting for people who want to genuinely learn AI and
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)**: One example of my Claude Code operational toolkits. Skills, plugins, MCP configs for high-velocity AI development.
 - **[ai-onboarding](https://github.com/James-Bonaguro/ai-onboarding)**: AI onboarding system for business professionals, grounded in real finance use cases. Teaches AI as a reasoning partner, not a search tool.
 - **[signal-speak](https://james-bonaguro.github.io/signal-speak/)**: Speaking practice app to improve articulation. Random topics, timed responses, AI scoring.
-- **[P&C Brokerage Intelligence Briefing](https://james-bonaguro.github.io/Broker/briefing-hub.html)**: A live proof-of-concept showing how AI can compress senior broker judgment into structured work products - competitive analysis, vendor matrices, workflow comparisons, implementation roadmaps. Built for commercial insurance, but the pattern works anywhere knowledge is complex and time is the constraint. All content is synthetic. [See the repo](https://github.com/James-Bonaguro/Broker) for the full picture.
+- **[P&C Brokerage Intelligence Briefing](https://james-bonaguro.github.io/Broker/briefing-hub.html)**: A live proof-of-concept showing how AI can compress senior broker judgment into structured work products - competitive analysis, vendor matrices, workflow comparisons, implementation roadmaps. This was built for commercial brokerage, but the same pattern works anywhere knowledge is complex and time is a huge constraint. All content is synthetic. [See the repo](https://github.com/James-Bonaguro/Broker) for the full picture.
   
 ## Contact
 
