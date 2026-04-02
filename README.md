@@ -1,11 +1,14 @@
 # James Bonaguro 
 
-Builder at the intersection of technology, economics, and psychology. 
-Founder of [Intersection Strategies LLC](mailto:james@intersectionstrategies.co).
+Builder at the intersection of technology, economics, and psychology.
 
-<div align="center">
+Founder of Intersection Strategies LLC
+
+<div>
   <img src="https://github.com/user-attachments/assets/af1fb63e-e9b2-44c7-b359-d0e480ceae80" alt="InterStrat Logo" width="200">
 </div>
+
+
 
 I build custom AI systems, onboarding workflows, and automation agents for businesses and individuals. And plenty of things I probably didn't need to... but learned a lot from anyway.
 
