@@ -20,6 +20,7 @@ I build custom AI systems, onboarding workflows, and automation agents for busin
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)**: One example of my Claude Code operational toolkits. Skills, plugins, MCP configs for high-velocity AI development.
 - **[ai-onboarding](https://github.com/James-Bonaguro/ai-onboarding)**: AI onboarding system for business professionals, grounded in real finance use cases. Teaches AI as a reasoning partner, not a search tool.
 - **[signal-speak](https://james-bonaguro.github.io/signal-speak/)**: Speaking practice app to improve articulation. Random topics, timed responses, AI scoring.
+- **[Broker](https://github.com/James-Bonaguro/Broker)**: Industry-agnostic intelligence briefing system built as a proof-of-concept for a commercial P&C brokerage. Demonstrates how AI can compress senior-level judgment into structured work products — competitive analysis, vendor matrices, implementation roadmaps — for any complex, knowledge-intensive industry. All content is synthetic. The pattern is portable. See the repo README.
  
 ## Contact
 
