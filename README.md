@@ -1,7 +1,5 @@
 # James Bonaguro 
 
-Builder at the intersection of technology, economics, and psychology.
-
 Founder of Intersection Strategies LLC
 
 <div>
@@ -9,10 +7,15 @@ Founder of Intersection Strategies LLC
 </div>
 
 
+I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use myself to make life easier. 
 
-I build custom AI systems, onboarding workflows, and automation agents for businesses and individuals. And plenty of things I probably didn't need to... but learned a lot from anyway.
+I also do plenty of 1:1 consulting for people who want to genuinely learn AI and put it to work, whether that's at their job, in their business, or just in their day-to-day life.
 
-> ***I use AI as a tool. It doesn't have a brain. It can never replace human judgement, taste, or perspective. Always review your work.***
+---
+
+*AI is a tool and a resource to accelerate learning - not replace human knowledge. It doesn't have a brain. It can never replace human nuance, judgment, taste, or perspective. Thoroughly review any output it produces.*
+
+  
 ---
 ## A Few Public Projects I've been Working On Recently
 
@@ -20,7 +23,7 @@ I build custom AI systems, onboarding workflows, and automation agents for busin
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)**: One example of my Claude Code operational toolkits. Skills, plugins, MCP configs for high-velocity AI development.
 - **[ai-onboarding](https://github.com/James-Bonaguro/ai-onboarding)**: AI onboarding system for business professionals, grounded in real finance use cases. Teaches AI as a reasoning partner, not a search tool.
 - **[signal-speak](https://james-bonaguro.github.io/signal-speak/)**: Speaking practice app to improve articulation. Random topics, timed responses, AI scoring.
-- **[P&C Brokerage Intelligence Briefing](https://james-bonaguro.github.io/Broker/briefing-hub.html)**: A live proof-of-concept showing how AI can compress senior broker judgment into structured work products — competitive analysis, vendor matrices, workflow comparisons, implementation roadmaps. Built for commercial insurance, but the pattern works anywhere knowledge is complex and time is the constraint. All content is synthetic. [See the repo](https://github.com/James-Bonaguro/Broker) for the full picture.
+- **[P&C Brokerage Intelligence Briefing](https://james-bonaguro.github.io/Broker/briefing-hub.html)**: A live proof-of-concept showing how AI can compress senior broker judgment into structured work products - competitive analysis, vendor matrices, workflow comparisons, implementation roadmaps. Built for commercial insurance, but the pattern works anywhere knowledge is complex and time is the constraint. All content is synthetic. [See the repo](https://github.com/James-Bonaguro/Broker) for the full picture.
   
 ## Contact
 
