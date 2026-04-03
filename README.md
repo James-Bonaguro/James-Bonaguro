@@ -1,6 +1,8 @@
 <div>
-  
+<img width="499" height="85" alt="Screenshot 2026-04-03 140046" src="https://github.com/user-attachments/assets/fb160385-4240-45c1-9fd3-e6559058e60b" />  
 </div>
+
+
 
 I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use myself to make life easier.
 
