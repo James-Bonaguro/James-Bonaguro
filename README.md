@@ -5,6 +5,7 @@
 I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use myself to make life easier.
 
 I also do 1:1 work with a limited number of people who want to genuinely learn AI and put it to work — at their job, in their business, or just in their day-to-day life. Feel free to reach out: james@intersectionstrategies.co
+
 ---
 
 *AI is a powerful accelerator for learning and processes. But it has no brain, no judgment, no taste. It can never replace human nuance or perspective. Always review the output.*
