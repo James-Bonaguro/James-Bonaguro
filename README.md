@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/user-attachments/assets/af1fb63e-e9b2-44c7-b359-d0e480ceae80" alt="InterStrat Logo" width="200">
+  
 </div>
 
 I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use myself to make life easier.
