@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/df1900fe-695f-43e0-8b84-1da386667ca1" alt="Intersection Strategies banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/627f075f-9d5b-4b7e-b821-4afca78ce313" alt="Intersection Strategies banner" width="100%" />
 </div>
+
+
 
 <br />
 
