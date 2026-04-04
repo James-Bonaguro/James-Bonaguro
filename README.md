@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/627f075f-9d5b-4b7e-b821-4afca78ce313" alt="Intersection Strategies banner" width="100%" />
-</div>
-
-
-
-<br />
-
-
-
-
+## hi
 
 I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use daily.
 
