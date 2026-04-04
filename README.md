@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/dd84fa48-e39c-4ea2-938a-73d306f3946b" alt="Intersection Strategies banner" width="90%" />
+  <img src="https://github.com/user-attachments/assets/b0772367-bd56-454b-b964-0219982c9b80" alt="Intersection Strategies  banner" width="90%" />
+
 </div>
 
 
