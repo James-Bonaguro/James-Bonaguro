@@ -14,7 +14,7 @@ I build custom AI systems, automation agents, and onboarding workflows for busin
 
 I also do 1:1 work with a limited number of people who want to genuinely learn AI and use it responsibly at their job, in their business, or in their day-to-day life.
 
-Feel free to reach out: james@intersectionstrategies.co
+james@intersectionstrategies.co
 
 ---
 
