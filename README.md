@@ -1,5 +1,5 @@
 <div>
-<img width="1584" height="396" alt="Github Banner - Intersection Strategies" src="https://github.com/user-attachments/assets/a4743676-9e58-4be4-91d9-a2e9b9a658bb" />
+<img width="100%" alt="Github Banner - Intersection Strategies" src="https://github.com/user-attachments/assets/a4743676-9e58-4be4-91d9-a2e9b9a658bb" />
 </div>
 
 
