@@ -12,7 +12,7 @@ Feel free to reach out: james@intersectionstrategies.co
 
 ---
 
-*AI is a powerful accelerator for learning and processes. But it has no brain, no judgment, no taste. It can never replace human nuance or perspective. Always review any output.*
+*AI is a powerful accelerator for learning and processes. But it has no brain, no judgment, no taste, no vision. It can never replace human nuance or perspective. Always review any output.*
 
 ---
 
