@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b0772367-bd56-454b-b964-0219982c9b80" alt="Intersection Strategies  banner" width="90%" />
-
+  <img src="https://github.com/user-attachments/assets/df1900fe-695f-43e0-8b84-1da386667ca1" alt="Intersection Strategies banner" width="90%" />
 </div>
+
+
 
 
 I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use daily.
