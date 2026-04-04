@@ -1,4 +1,3 @@
-## hi
 
 I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use daily.
 
