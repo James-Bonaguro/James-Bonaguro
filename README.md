@@ -4,7 +4,7 @@
 
 
 
-I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use myself to make life easier.
+I build custom AI systems, automation agents, and onboarding workflows for businesses and individuals. And plenty of personal apps I use daily.
 
 I also do 1:1 work with a limited number of people who want to genuinely learn AI and use it responsibly at their job, in their business, or in their day-to-day life.
 
