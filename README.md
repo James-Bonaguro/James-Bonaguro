@@ -1,5 +1,4 @@
 
----
 
 ## A Few Public Projects I've Been Working On Recently
 
