@@ -1,5 +1,5 @@
 
-## A Few Public Projects I've Been Working On Recently
+## A Few Public Projects I've Been Working On Recently   https://drive.google.com/file/d/1KVx6wq5KKk3KlyXo_KSIIR7mQ355qFCP/view?usp=drive_link
 
 - **[claude-code-lab](https://github.com/James-Bonaguro/claude-code-lab)** – Hands-on learning repo for Claude Code. Real challenges on a working app, learn by actually building.
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)** – A Claude Code operational toolkit. Skills, plugins, MCP configs for high-velocity AI development.
