@@ -1,8 +1,8 @@
 # James Bonaguro
 
-I build practical AI-assisted workflows, research outputs, and tools.
+I build practical AI-assisted workflows, automations, and tools for SMBs and individuals.
 
-Most of what I share here sits at the intersection of workflow improvement, structured thinking, and usable deliverables — the kind of work that helps people move faster, get clearer, and make better decisions.
+Most of what I share here is built to make complex work more structured, usable, and easier to act on. Sometimes that looks like research. Sometimes it looks like an automation, a toolkit, or a decision support asset.
 
 ## Selected work
 
@@ -17,6 +17,6 @@ Most of what I share here sits at the intersection of workflow improvement, stru
 
 ## Focus
 
-Workflows · research artifacts · decision support · knowledge compression · practical implementation
+Workflows · automations · toolkits · decision support · practical implementation
 
-*The subject changes. The size of the project changes. The output doesn't.*
+The industry changes. The subject changes. The size of the project changes. The quality of the output doesn't.
