@@ -22,4 +22,3 @@ Most of what I share here is built to make complex work more structured, usable,
 
 Workflows · automations · toolkits · decision support · practical implementation
 
-The industry changes. The subject changes. The size of the project changes. The quality of the output doesn't.
