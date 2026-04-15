@@ -1,6 +1,6 @@
 # James Bonaguro
 
-I build practical AI-assisted workflows, automations, and tools for SMBs and individuals.
+I build ethical and practical AI-assisted workflows, automations, and tools for SMBs and individuals.
 
 Most of what I share here is built to make complex work more structured, usable, and easier to act on. Sometimes that looks like research. Sometimes it looks like an automation, a toolkit, or a decision support asset.
 
