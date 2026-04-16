@@ -20,5 +20,5 @@ Most of what I share here is built to make complex work more structured, usable,
 
 ## Focus
 
-Workflows · automations · toolkits · decision support · practical implementation
+agentic workflows · automations · toolkits · decision support · practical implementation
 
