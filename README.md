@@ -10,7 +10,7 @@ Most of what I share here is built to make complex work more structured, usable,
   A live proof-of-concept showing how a complex subject can be turned into something structured and usable.
 
 - **[the-bench](https://github.com/James-Bonaguro/the-bench)**  
-  A Claude Code operational toolkit — custom skills, subagent workflows, slash commands, and MCP configs for agentic AI development.
+  A Claude Code operational toolkit: custom skills, subagent workflows, slash commands, and MCP configs for agentic AI development.
 
 - **[claude-code-lab](https://github.com/James-Bonaguro/claude-code-lab)**  
   A hands-on learning repo built around implementation rather than theory.
