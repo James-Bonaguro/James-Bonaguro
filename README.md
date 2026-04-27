@@ -12,9 +12,6 @@ Most of what I share here is built to make complex work more structured, usable,
 - **[claude-code-lab](https://github.com/James-Bonaguro/claude-code-lab)**  
   A hands-on learning repo built around implementation rather than theory.
 
-- **[the-bench](https://github.com/James-Bonaguro/the-bench)**  
-  A local toolkit for higher-velocity AI development.
-
 - **[AI Fluency Index](https://github.com/James-Bonaguro/ai-fluency-index)**
   A practitioner's breakdown of Anthropic's research on what separates effective AI users from everyone else.
 
