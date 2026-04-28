@@ -16,7 +16,7 @@ Most of what I share here is built to make complex work more structured, usable,
   A hands-on learning repo built around implementation rather than theory.
 
 - **[Anthropic Research Report Summaries](https://github.com/James-Bonaguro/anthropic-reports)**
-  A practitioner's breakdown of Anthropic's research on what separates effective AI users from everyone else.
+  A practitioner's summaries of Anthropic research reports. Translated for professionals navigating AI adoption.
 
 ## Focus
 
