@@ -9,13 +9,13 @@ Most of what I share here is built to make complex work more structured, usable,
 - **[P&C Brokerage Intelligence Briefing](https://james-bonaguro.github.io/Broker/briefing-hub.html)**  
   A live proof-of-concept showing how a complex subject can be turned into something structured and usable.
 
-- **[the-bench](https://github.com/James-Bonaguro/the-bench)**  
+- **[The-Bench](https://github.com/James-Bonaguro/the-bench)**  
   A Claude Code operational toolkit: custom skills, subagent workflows, slash commands, and MCP configs for agentic AI development.
 
-- **[claude-code-lab](https://github.com/James-Bonaguro/claude-code-lab)**  
+- **[Claude Code Lab](https://github.com/James-Bonaguro/claude-code-lab)**  
   A hands-on learning repo built around implementation rather than theory.
 
-- **[AI Fluency Index](https://github.com/James-Bonaguro/ai-fluency-index)**
+- **[Anthropic Research Report Summaries](https://github.com/James-Bonaguro/anthropic-reports)**
   A practitioner's breakdown of Anthropic's research on what separates effective AI users from everyone else.
 
 ## Focus
