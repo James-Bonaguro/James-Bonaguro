@@ -1,24 +1,31 @@
-# James Bonaguro
+## What I'm building
 
-I build ethical and practical AI-assisted workflows, automations, and tools for SMBs and individuals.
+**[Intersection Strategies](https://intersectionstrategies.co)** — custom systems and 
+workflows for small and mid-sized businesses. The site has live client work, 
+deployed tools, and working agents.
 
-Most of what I share here is built to make complex work more structured, usable, and easier to act on. Sometimes that looks like research. Sometimes it looks like an automation, a toolkit, or a decision support asset.
+---
 
-## Selected work
+## Active repos
 
-- **[P&C Brokerage Intelligence Briefing](https://james-bonaguro.github.io/Broker/briefing-hub.html)**  
-  A live proof-of-concept showing how a complex subject can be turned into something structured and usable.
+- **[anthropic-reports](https://github.com/James-Bonaguro/anthropic-reports)** — 
+  Practitioner-style summaries of Anthropic research papers, written for business 
+  and consulting audiences. Not technical abstracts — what the findings actually 
+  mean for operators.
 
-- **[The-Bench](https://github.com/James-Bonaguro/the-bench)**  
-  A Claude Code operational toolkit: custom skills, subagent workflows, slash commands, and MCP configs for agentic AI development.
+- **[the-bench](https://github.com/James-Bonaguro/the-bench)** — Claude Code 
+  operational toolkit. Skills, plugins, MCP configs for high-velocity AI development.
 
-- **[Claude Code Lab](https://github.com/James-Bonaguro/claude-code-lab)**  
-  A hands-on learning repo built around implementation rather than theory.
+- **[P&C Broker Briefing Hub](https://james-bonaguro.github.io/Broker/briefing-hub.html)** — 
+  Live proof of concept showing how AI can compress senior broker judgment into 
+  structured work products. Synthetic content, real pattern.
+  [Repo](https://github.com/James-Bonaguro/Broker)
 
-- **[Anthropic Research Report Summaries](https://github.com/James-Bonaguro/anthropic-reports)**
-  A series of summaries of Anthropic research reports. Translated for professionals navigating AI adoption.
+- **[signal-speak](https://james-bonaguro.github.io/signal-speak/)** — Speaking 
+  practice app. Random topics, timed responses, AI scoring.
 
-## Focus
+- **[claude-skills](https://github.com/James-Bonaguro/claude-skills)** — Public 
+  skills library for Claude Code. Auto-loads into sessions via install script.
 
-agentic workflows · automations · toolkits · decision support · practical implementation
-
+- **[ai-onboarding](https://github.com/James-Bonaguro/ai-onboarding)** — AI 
+  onboarding system for business professionals. Under construction.
